@@ -7,6 +7,7 @@ Socratic meetups are group discussions about a wide range of bitcoin-related top
 
 ## Topic Suggestions
 
+Here are a few example topics:
 * Bitcoin
 	* [schnorr](https://en.bitcoin.it/wiki/Schnorr) - an alternative signature algorithm with several advantages over ECDSA
 	* [taproot](https://github.com/sipa/bips/blob/bip-schnorr/bip-taproot.mediawiki) - a proposal that focuses on improvements to privacy, efficiency, and flexibility of Bitcoin's smart contracts
@@ -14,6 +15,11 @@ Socratic meetups are group discussions about a wide range of bitcoin-related top
 	* [BOLT](https://github.com/lightningnetwork/lightning-rfc/blob/master/00-introduction.md) - the lightning network protocol specification
 	* [WhatsAt](https://github.com/joostjager/whatsat) - end-to-end encrypted, onion-routed, censorship-resistant, peer-to-peer instant messaging over Lightning
 	* [lnurl](https://github.com/btcontract/lnurl-rfc) - specification, latest implementations, wallet/app support
+
+For further inspiration, have a look at these sources:
+* [bitcoin developer mailing list](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
+* [bitcoin optech newsletter](https://bitcoinops.org/en/newsletters/)
+* [lnd google group](https://groups.google.com/a/lightning.engineering/forum/#!forum/lnd)
 
 
 ## How to Run a Meeting
@@ -36,4 +42,6 @@ At a minimum, one person should prepare a topic to present during the meeting. T
 		* Guide the presenter and discussion (in case things go too far off topic)
 		* Ensure each presenter has enough time to present and discuss their topic
 
-* _Notes?_ - should we take notes during each meetup?
+* __Notes__:
+	* The organizer and attendees are encouraged to take notes during each topic presentation
+	* These notes should be added to this repository after the meeting in the [notes directory](https://github.com/Learn-by-doing/socratic-meetups/tree/master/meeting-notes)
