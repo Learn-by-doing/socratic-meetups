@@ -1,5 +1,9 @@
 # Socratic Meetups
 
+Prague, Czech Republic
+
+Interested in joining our next meeting? Find event details and RSVP for our next socratic bitcoin meetup [here](https://www.meetup.com/Life-Learning-Programming-Prague/events/).
+
 Socratic meetups are group discussions about a wide range of bitcoin-related topics. Pull requests, mailing list threads, new papers, security vulnerabilities and other topics are discussed at socratic meetups. Participants are welcome to propose topics for discussion before each event.
 
 * [Topic Suggestions](#topic-suggestions)
