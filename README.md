@@ -6,21 +6,23 @@ Interested in joining our next meeting? Find event details and RSVP for our next
 
 Socratic meetups are group discussions about a wide range of bitcoin-related topics. Pull requests, mailing list threads, new papers, security vulnerabilities and other topics are discussed at socratic meetups. Participants are welcome to propose topics for discussion before each event.
 
-* [Topic Suggestions](#topic-suggestions)
+* [Topic Proposals](#topic-proposals)
 * [How to Run a Meeting](#how-to-run-a-meeting)
+* [Past Meeting Notes](#past-meeting-notes)
 
-## Topic Suggestions
 
-Here are a few example topics:
-* Bitcoin
-	* [schnorr](https://en.bitcoin.it/wiki/Schnorr) - an alternative signature algorithm with several advantages over ECDSA
-	* [taproot](https://github.com/sipa/bips/blob/bip-schnorr/bip-taproot.mediawiki) - a proposal that focuses on improvements to privacy, efficiency, and flexibility of Bitcoin's smart contracts
-* Lightning Network
-	* [BOLT](https://github.com/lightningnetwork/lightning-rfc/blob/master/00-introduction.md) - the lightning network protocol specification
-	* [WhatsAt](https://github.com/joostjager/whatsat) - end-to-end encrypted, onion-routed, censorship-resistant, peer-to-peer instant messaging over Lightning
-	* [lnurl](https://github.com/btcontract/lnurl-rfc) - specification, latest implementations, wallet/app support
+## Topic Proposals
 
-For further inspiration, have a look at these sources:
+Have a topic you would like to propose for the next meeting? Great! Share it with us by posting a comment on the latest ["Topic Proposals" issue](https://github.com/Learn-by-doing/socratic-meetups/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+topic+proposals). This will let us plan the next meeting so that every speaker gets time to discuss their topic.
+
+Example topics that we discussed at previous meetings:
+* [schnorr](https://en.bitcoin.it/wiki/Schnorr) - an alternative signature algorithm with several advantages over ECDSA
+* [taproot](https://github.com/sipa/bips/blob/bip-schnorr/bip-taproot.mediawiki) - a proposal that focuses on improvements to privacy, efficiency, and flexibility of Bitcoin's smart contracts
+* [BOLT](https://github.com/lightningnetwork/lightning-rfc/blob/master/00-introduction.md) - the lightning network protocol specification
+* [WhatsAt](https://github.com/joostjager/whatsat) - end-to-end encrypted, onion-routed, censorship-resistant, peer-to-peer instant messaging over Lightning
+* [lnurl](https://github.com/btcontract/lnurl-rfc) - specification, latest implementations, wallet/app support
+
+A few places to find inspiration for future topics:
 * [bitcoin developer mailing list](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
 * [bitcoin optech newsletter](https://bitcoinops.org/en/newsletters/)
 * [lnd google group](https://groups.google.com/a/lightning.engineering/forum/#!forum/lnd)
@@ -48,4 +50,10 @@ At a minimum, one person should prepare a topic to present during the meeting. T
 
 * __Notes__:
 	* The organizer and attendees are encouraged to take notes during each topic presentation
-	* These notes should be added to this repository after the meeting in the [notes directory](https://github.com/Learn-by-doing/socratic-meetups/tree/master/meeting-notes)
+	* These notes should be added to this repository in the "meeting-notes" directory. Copy the [notes template file](https://github.com/Learn-by-doing/socratic-meetups/tree/master/meeting-notes/YYYY-MM-DD-template.md).
+
+
+## Past Meeting Notes
+
+* [2020-01-15](https://learn-by-doing.github.io/socratic-meetups/meeting-notes/2020-01-15)
+* [2019-12-03](https://learn-by-doing.github.io/socratic-meetups/meeting-notes/2019-12-03)
