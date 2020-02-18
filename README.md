@@ -2,7 +2,11 @@
 
 Prague, Czech Republic
 
-Interested in joining our next meeting? Find event details and RSVP for our next socratic bitcoin meetup [here](https://www.meetup.com/Life-Learning-Programming-Prague/events/).
+Interested in joining our next meeting? Find event details and RSVP for our next socratic bitcoin meetup [here](https://www.meetup.com/Life-Learning-Programming-Prague/events/). Or if you're not in our neighborhood, there are other groups hosting similar meetups around the world:
+* Berlin - [Bitcoin-Lab-Berlin](https://www.meetup.com/Bitcoin-Lab-Berlin/)
+* London - [London-Bitcoin-Devs](https://www.meetup.com/London-Bitcoin-Devs/)
+* New York City - [BitDevsNYC](https://www.meetup.com/BitDevsNYC/)
+* San Francisco - [SF-Bitcoin-Devs](https://www.meetup.com/SF-Bitcoin-Devs/)
 
 Socratic meetups are group discussions about a wide range of bitcoin-related topics. Pull requests, mailing list threads, new papers, security vulnerabilities and other topics are discussed at socratic meetups. Participants are welcome to propose topics for discussion before each event.
 
