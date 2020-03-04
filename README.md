@@ -59,6 +59,7 @@ At a minimum, one person should prepare a topic to present during the meeting. T
 
 ## Past Meeting Notes
 
+* [2020-03-04](https://learn-by-doing.github.io/socratic-meetups/meeting-notes/2020-03-04)
 * [2020-02-05](https://learn-by-doing.github.io/socratic-meetups/meeting-notes/2020-02-05)
 * [2020-01-15](https://learn-by-doing.github.io/socratic-meetups/meeting-notes/2020-01-15)
 * [2019-12-03](https://learn-by-doing.github.io/socratic-meetups/meeting-notes/2019-12-03)
